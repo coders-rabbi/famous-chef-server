@@ -1,0 +1,56 @@
+[
+    {
+        "chef_id": 1,
+        "img": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Tamera Turner",
+        "experiance": "10+",
+        "recipies": 3,
+        "likes": "100",
+        "bio": "David Kim is a Michelin-starred chef with over 20 years of experience. He specializes in Korean fusion cuisine and has worked in top-rated restaurants in Seoul, New York, and London. In his free time, he enjoys playing the guitar and practicing martial arts."
+    },
+    {
+        "chef_id": 2,
+        "img": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Madeline Livingston",
+        "experiance": "12+",
+        "recipies": 3,
+        "likes": "120",
+        "bio": "Maria Lopez is a pastry chef with a passion for creating unique and delicious desserts. She trained at Le Cordon Bleu in Paris and has worked in some of the finest patisseries in France and the United States. When she's not in the kitchen, Maria enjoys hiking, reading, and spending time with her family."
+    },
+    {
+        "chef_id": 3,
+        "img": "https://images.unsplash.com/photo-1611657365907-1ca5d9799f59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Mcmillan Mcmahon",
+        "experiance": "13+",
+        "recipies": 3,
+        "likes": "130",
+        "bio": "Kevin Nguyen is a Vietnamese-American chef known for his modern twist on traditional Vietnamese cuisine. He has been featured on several cooking shows and has won numerous awards for his culinary creations. In his free time, Kevin enjoys playing basketball and exploring new restaurants around the world."
+    },
+    {
+        "chef_id": 4,
+        "img": "https://plus.unsplash.com/premium_photo-1673830186179-2a1cac4ddcfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=701&q=80",
+        "name": "Craig Smith",
+        "experiance": "14+",
+        "recipies": 3,
+        "likes": "140",
+        "bio": "Susan Park is a chef and restaurateur who has built a successful chain of Korean BBQ restaurants across the United States. She is known for her focus on using high-quality, locally sourced ingredients in her dishes. When she's not running her restaurants, Susan enjoys practicing yoga and hiking in the mountains."
+    },
+    {
+        "chef_id": 5,
+        "img": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Dudley Woodward",
+        "experiance": "15+",
+        "recipies": 3,
+        "likes": "150",
+        "bio": "Juan Martinez is a Mexican chef with a passion for creating authentic and flavorful dishes. He has worked in some of the best restaurants in Mexico and the United States and has won several awards for his culinary creations. In his free time, Juan enjoys playing soccer and spending time with his wife and children."
+    },
+    {
+        "chef_id": 6,
+        "img": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Deborah Shepard",
+        "experiance": "16+",
+        "recipies": 3,
+        "likes": "160",
+        "bio": "Rachel Lee is a vegan chef who specializes in creating delicious plant-based dishes. She has a degree in nutrition and has worked in several vegan restaurants across the United States. When she's not in the kitchen, Rachel enjoys practicing yoga, meditating, and spending time with her pets."
+    }
+]
